@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Windows.Forms;
 using PPK_Bab4_Perpustakaan.Views;

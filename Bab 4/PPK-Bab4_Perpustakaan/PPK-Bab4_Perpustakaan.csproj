@@ -87,7 +87,6 @@
     <Compile Include="Presenter\BukuDiPinjamPresenter.cs" />
     <Compile Include="Presenter\MasterBukuPresenter.cs" />
     <Compile Include="Presenter\PeminjamPresenter.cs" />
-    <Compile Include="Presenter\PengembalianPresenter.cs" />
     <Compile Include="Presenter\PinjamPresenter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -101,7 +100,6 @@
     <Compile Include="Views\ILoginView.cs" />
     <Compile Include="Views\IMasterBuku.cs" />
     <Compile Include="Views\IPeminjam.cs" />
-    <Compile Include="Views\IPengembalian.cs" />
     <Compile Include="Views\IPinjamBuku.cs" />
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
