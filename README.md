@@ -3,7 +3,7 @@
 # Screenshot
 
 -	Form Login
- ![Preview](https://raw.githubusercontent.com/arkaanni/PPK-Bab-4/master/Bab%204/SS/form_login.png)
+ ![Preview](https://raw.githubusercontent.com/arkaanni/PPK-Bab-4/master/Bab%204/SS/login.png)
 
 -	Form Utama
  ![Preview](https://raw.githubusercontent.com/arkaanni/PPK-Bab-4/master/Bab%204/SS/form_utama.png)
