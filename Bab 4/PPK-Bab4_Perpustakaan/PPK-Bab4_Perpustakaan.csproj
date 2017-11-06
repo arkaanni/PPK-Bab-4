@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B449FFEC-D96A-485A-ADD0-F0D10CEB0D11}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PPK_Bab4_Perpustakaan</RootNamespace>
+    <AssemblyName>PPK-Bab4_Perpustakaan</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.10.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterBukuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterBukuForm.Designer.cs">
+      <DependentUpon>MasterBukuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PeminjamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PeminjamForm.Designer.cs">
+      <DependentUpon>PeminjamForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PinjamBukuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PinjamBukuForm.Designer.cs">
+      <DependentUpon>PinjamBukuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presenter\Koneksi.cs" />
+    <Compile Include="Presenter\LoginPresenter.cs" />
+    <Compile Include="Perpus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perpus.Designer.cs">
+      <DependentUpon>Perpus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presenter\BukuDiPinjamPresenter.cs" />
+    <Compile Include="Presenter\MasterBukuPresenter.cs" />
+    <Compile Include="Presenter\PeminjamPresenter.cs" />
+    <Compile Include="Presenter\PinjamPresenter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TambahBukuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TambahBukuForm.Designer.cs">
+      <DependentUpon>TambahBukuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\IBukuDiPinjam.cs" />
+    <Compile Include="Views\ILoginView.cs" />
+    <Compile Include="Views\IMasterBuku.cs" />
+    <Compile Include="Views\IPeminjam.cs" />
+    <Compile Include="Views\IPinjamBuku.cs" />
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterBukuForm.resx">
+      <DependentUpon>MasterBukuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PeminjamForm.resx">
+      <DependentUpon>PeminjamForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perpus.resx">
+      <DependentUpon>Perpus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PinjamBukuForm.resx">
+      <DependentUpon>PinjamBukuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TambahBukuForm.resx">
+      <DependentUpon>TambahBukuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

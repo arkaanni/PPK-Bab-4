@@ -1,0 +1,17 @@
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\bin\Debug\PPK-Bab4_Perpustakaan.exe.config
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\bin\Debug\PPK-Bab4_Perpustakaan.exe
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\bin\Debug\PPK-Bab4_Perpustakaan.pdb
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK-Bab4_Perpustakaan.csprojResolveAssemblyReference.cache
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.Properties.Resources.resources
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK-Bab4_Perpustakaan.csproj.GenerateResource.Cache
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK-Bab4_Perpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK-Bab4_Perpustakaan.exe
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK-Bab4_Perpustakaan.pdb
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.LoginForm.resources
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.Perpus.resources
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\bin\Debug\MySql.Data.dll
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\bin\Debug\MySql.Data.xml
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.MasterBukuForm.resources
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.PinjamBukuForm.resources
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.TambahBukuForm.resources
+C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.PeminjamForm.resources
