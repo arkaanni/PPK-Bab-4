@@ -77,6 +77,7 @@
             this.formPengembalianToolStripMenuItem.Name = "formPengembalianToolStripMenuItem";
             this.formPengembalianToolStripMenuItem.Size = new System.Drawing.Size(181, 22);
             this.formPengembalianToolStripMenuItem.Text = "Form Pengembalian";
+            this.formPengembalianToolStripMenuItem.Click += new System.EventHandler(this.formPengembalianToolStripMenuItem_Click);
             // 
             // keluarToolStripMenuItem
             // 

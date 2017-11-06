@@ -23,7 +23,7 @@ namespace PPK_Bab4_Perpustakaan.Presenter
             queryString = 
                 "SELECT b.id, b.judul, b.penerbit, b.author, p.nama " +
                 "FROM buku as b, transaksi_buku as t, peminjam as p " +
-                "WHERE b.id=t.buku_id AND t.peminjam_id=p.id";
+                "WHERE b.id=t.buku_id AND t.peminjam_id=p.id AND b.status=1 AND t.status=0";
 
             DataTable dt = new DataTable();
 

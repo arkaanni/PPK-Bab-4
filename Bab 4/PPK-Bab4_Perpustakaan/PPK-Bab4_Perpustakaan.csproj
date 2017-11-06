@@ -64,6 +64,12 @@
     <Compile Include="PeminjamForm.Designer.cs">
       <DependentUpon>PeminjamForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="PengembalianBuku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PengembalianBuku.Designer.cs">
+      <DependentUpon>PengembalianBuku.cs</DependentUpon>
+    </Compile>
     <Compile Include="PinjamBukuForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +87,7 @@
     <Compile Include="Presenter\BukuDiPinjamPresenter.cs" />
     <Compile Include="Presenter\MasterBukuPresenter.cs" />
     <Compile Include="Presenter\PeminjamPresenter.cs" />
+    <Compile Include="Presenter\PengembalianPresenter.cs" />
     <Compile Include="Presenter\PinjamPresenter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -94,6 +101,7 @@
     <Compile Include="Views\ILoginView.cs" />
     <Compile Include="Views\IMasterBuku.cs" />
     <Compile Include="Views\IPeminjam.cs" />
+    <Compile Include="Views\IPengembalian.cs" />
     <Compile Include="Views\IPinjamBuku.cs" />
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
@@ -103,6 +111,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="PeminjamForm.resx">
       <DependentUpon>PeminjamForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PengembalianBuku.resx">
+      <DependentUpon>PengembalianBuku.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Perpus.resx">
       <DependentUpon>Perpus.cs</DependentUpon>

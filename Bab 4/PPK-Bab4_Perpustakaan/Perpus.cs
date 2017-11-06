@@ -79,5 +79,19 @@ namespace PPK_Bab4_Perpustakaan
             PeminjamForm peminjamForm = new PeminjamForm();
             peminjamForm.Show();
         }
+
+        private void formPengembalianToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            PengembalianBuku pengembalianBuku = new PengembalianBuku();
+            pengembalianBuku.Show();
+            pengembalianBuku.FormClosed += PengembalianBuku_FormClosed;
+        }
+
+        private void PengembalianBuku_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            listViewBukuDiPinjam.Items.Clear();
+
+            IsiData();
+        }
     }
 }

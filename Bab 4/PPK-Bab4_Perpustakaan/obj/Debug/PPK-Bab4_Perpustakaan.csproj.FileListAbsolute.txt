@@ -15,3 +15,21 @@ C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debu
 C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.PinjamBukuForm.resources
 C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.TambahBukuForm.resources
 C:\Users\arkaa\source\repos\PPK-Bab4_Perpustakaan\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.PeminjamForm.resources
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\bin\Debug\PPK-Bab4_Perpustakaan.exe.config
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\bin\Debug\PPK-Bab4_Perpustakaan.exe
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\bin\Debug\PPK-Bab4_Perpustakaan.pdb
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\bin\Debug\MySql.Data.dll
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\bin\Debug\MySql.Data.xml
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK-Bab4_Perpustakaan.csprojResolveAssemblyReference.cache
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.LoginForm.resources
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.MasterBukuForm.resources
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.PeminjamForm.resources
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.PengembalianBuku.resources
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.Perpus.resources
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.PinjamBukuForm.resources
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.Properties.Resources.resources
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK_Bab4_Perpustakaan.TambahBukuForm.resources
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK-Bab4_Perpustakaan.csproj.GenerateResource.Cache
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK-Bab4_Perpustakaan.csproj.CoreCompileInputs.cache
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK-Bab4_Perpustakaan.exe
+D:\##Kuliah\Semester 5\Pemrograman Platform Khusus\Praktikum\Bab 4\PPK-Bab-4\Bab 4\PPK-Bab4_Perpustakaan\obj\Debug\PPK-Bab4_Perpustakaan.pdb
